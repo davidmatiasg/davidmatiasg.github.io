@@ -6,4 +6,4 @@ permalink: pretty
 collections:
   electricity_posts:
     output: true
-    permalink: /electricity-markets/:name/
+    permalink: /energy-markets/:name/
