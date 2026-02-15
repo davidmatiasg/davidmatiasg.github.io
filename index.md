@@ -10,7 +10,7 @@ photo_caption: "Photo (optional caption)."
 
 #  David Matias-Garcia
 
-assets/img/headshot.jpg
+assets/img/headshot.JPG
 
 
 I am a PhD Student in Economics at [Rice University](https://www.rice.edu/) and a Graduate Student Fellow at the [Baker Institute’s Center for Energy Studies](https://www.bakerinstitute.org/expert/david-matias-garcia). My research focuses on Industrial Organization and Energy Markets,
