@@ -64,8 +64,9 @@ Below is my writing organized by type and year. For questions on any publication
 ### 2022
 
 - **The impact of extreme weather events on agricultural prices: Evidence from grain and legume wholesale markets in Mexico**  
-  David Matias. (2022). *Working paper / report.*  
-  [Link forthcoming](#)
+  David Matias. (2022). *Thesis / report.*  
+ [Publication page](https://hdl.handle.net/20.500.11986/COLMEX/10015793)
+ 
 
 - **Performance of Electricity Distribution Companies in Latin America and the Caribbean: The Role of Governance and Management**  
   José Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Daltro, Michelle Carvalho Hallack, and David Matias. (2022). *Report.*  
