@@ -4,6 +4,7 @@ markdown: kramdown
 permalink: pretty
 
 collections:
-  electricity_posts:
+  energy_posts:
     output: true
     permalink: /energy-markets/:name/
+
