@@ -21,15 +21,6 @@ Here is a link to my **CV**:
   <div>Email</div><span>ematias@colmex.mx</span>
 </div>
 
----
-
-## References
-
-- Gerardo Esquivel (Master's thesis advisor) — El Colegio de México  
-- Raymundo M. Campos-Vazquez — El Colegio de México  
-- Rigoberto Ariel Yépez-García — Inter-American Development Bank  
-- Lenin Balza — Inter-American Development Bank  
-- José Belmar — Inter-American Development Bank  
 
 ---
 
