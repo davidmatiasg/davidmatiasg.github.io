@@ -34,15 +34,27 @@ This book captures something essential: our present is often the result of fragm
 
 ---
 
-## Blog
+## Blog writing (Spanish)
 
-At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write about energy issues (in Spanish). You can find my posts listed here:
+At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write short, policy-oriented pieces on energy issues in Latin America and the Caribbean. Below is a curated list of my posts (in Spanish).
 
-- ¿Qué hacer para reducir y controlar las pérdidas eléctricas en América Latina y el Caribe? — add URL
-- Emisiones CO2 en América Latina y el Caribe: perspectivas regionales — add URL
-- Pérdidas eléctricas en América Latina y el Caribe: un problema crónico para la sostenibilidad del sector — add URL
-- Transformar el futuro: Acelerando la transición energética en América Latina y el Caribe — add URL
-- ¿Cómo se relacionan las emisiones CO2 y el crecimiento económico en América Latina y el Caribe? — add URL
-- Tres costos asociados con la transición energética y qué podemos hacer para mitigarlos — add URL
-- ¿Cómo se comporta la demanda de electricidad de los países de la región durante la recuperación económica pos-covid-19? — add URL
+### Electricity losses & sector sustainability
+- [¿Qué hacer para reducir y controlar las pérdidas eléctricas en América Latina y el Caribe?](https://www.iadb.org/es/blog/energia/que-hacer-para-reducir-y-controlar-las-perdidas-electricas-en-america-latina-y-el-caribe)
+- [Pérdidas eléctricas en América Latina y el Caribe: un problema crónico para la sostenibilidad del sector](https://www.iadb.org/es/blog/energia/perdidas-electricas-en-america-latina-y-el-caribe-un-problema-cronico-para-la-sostenibilidad-del)
+
+### Energy transition
+- [Transformar el futuro: Acelerando la transición energética en América Latina y el Caribe](https://www.iadb.org/es/blog/energia/transformar-el-futuro-acelerando-la-transicion-energetica-en-america-latina-y-el-caribe)
+- [Tres costos asociados con la transición energética y qué podemos hacer para mitigarlos](https://blogs.iadb.org/energia/es/tres-costos-asociados-con-la-transicion-energetica-y-que-podemos-hacer-para-mitigarlos/)
+
+### Emissions, growth, and inflation dynamics
+- [Emisiones CO₂ en América Latina y el Caribe: perspectivas regionales](https://www.iadb.org/es/blog/energia/emisiones-co2-en-america-latina-y-el-caribe-perspectivas-regionales)
+- [¿Cómo se relacionan las emisiones CO₂ y el crecimiento económico en América Latina y el Caribe?](https://www.iadb.org/es/blog/energia/como-se-relacionan-las-emisiones-co2-y-el-crecimiento-economico-en-america-latina-y-el-caribe)
+
+### Demand and post-COVID recovery
+- [¿Cómo se comporta la demanda de electricidad de los países de la región durante la recuperación económica pos-covid-19?](https://www.iadb.org/es/blog/energia/como-se-comporta-la-demanda-de-electricidad-de-los-paises-de-la-region-durante-la-recuperacion)
+
+---
+
+### A personal favorite (older)
+- [¿Realmente elegimos cuando compramos por internet?](https://blog.bppolicy.org/2019/08/realmente-elegimos-cuando-compramos-en.html?fbclid=IwdGRjcAOQbclleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefoYTElgGeQaEiCWTqUMXC-hVvfmM44NU4DLsTTjGCM8_6d8I_Sg2ZQqHfx4_aem_6lzfRvHL6voAOkHujC4lMg&m=1)
 
