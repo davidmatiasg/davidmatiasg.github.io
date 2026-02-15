@@ -24,12 +24,15 @@ Below is my writing organized by type and year. For questions on any publication
   _Presented at:_ 9th Latin American Energy Economics Meeting (ELAEE)
 
   <details>
-  <summary><span class="muted">Abstract & keywords</span></summary>
+  <summary><span class="muted">Abstract</span></summary>
 
   **Abstract.** This paper examines whether renewable electricity adoption mitigates the pass-through of international fossil fuel price shocks to inflation in Latin America and the Caribbean (LAC). Using data for 18 LAC countries (2005–2021), we find that higher renewable shares reduce the transmission of oil price shocks to both energy inflation and overall inflation, highlighting an additional macroeconomic externality of renewable investment.
-
-  **Keywords:** Pass-through; Inflation; Structural VAR; Local projections; Fossil fuel prices; Electricity mix
   </details>
+
+- **Measuring the efficiency of energy distribution firms in the LAC region: A service provision and financial performance approach**  
+  Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Daltro, Franco Carvajal, Michelle Carvalho Hallack, and David Matias. (2025). *Journal of Applied Economics, 28*(1).  
+  DOI: 10.1080/15140326.2025.2568248 — [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
+
 
 ### 2024
 
@@ -66,17 +69,10 @@ Below is my writing organized by type and year. For questions on any publication
 
 - **Performance of Electricity Distribution Companies in Latin America and the Caribbean: The Role of Governance and Management**  
   José Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Daltro, Michelle Carvalho Hallack, and David Matias. (2022). *Report.*  
-  [Link forthcoming](#)
+   DOI: 10.18235/0004536 — [Publication page]( http://dx.doi.org/10.18235/0004536) 
 
 ---
 
-## Journal publications
-
-- **Measuring the efficiency of energy distribution firms in the LAC region: A service provision and financial performance approach**  
-  Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Daltro, Franco Carvajal, Michelle Carvalho Hallack, and David Matias. (2025). *Journal of Applied Economics, 28*(1).  
-  DOI: 10.1080/15140326.2025.2568248 — [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
-
----
 
 ## Other writing
 
