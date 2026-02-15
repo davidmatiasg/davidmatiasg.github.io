@@ -18,7 +18,7 @@ I am currently reading several books. While I previously explored a wide range o
 > *Fragments of memory shift and form shapes. They do so without pattern, without plan, without any meaning at all.*  
 > *They scatter, and then—suddenly—gather again with resolve.*  
 > *They resemble countless butterflies going still all at once; they resemble impassive dancers with their faces covered.*  
-> — Han Kang, *Greek Lessons*, p. xx. *(my translation from the Spanish excerpt provided)*
+> — Han Kang, *Greek Lessons*, p. xx. *(my translation from the Spanish excerpt)*
 
 What moves me about this fragment is how precisely it mirrors human thought. Memory doesn’t arrive in a straight line: it drifts, disappears, returns—sometimes without warning, sometimes with force. I’ll be doing something ordinary and a scene from my past will surface, vivid for a moment, then dissolve, only to reappear later in a different shape. That happens with simple family memories and with more complicated experiences I’ve lived through.
 
