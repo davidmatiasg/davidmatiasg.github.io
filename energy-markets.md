@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Electricity markets
-permalink: /electricity-markets/
+title: Energy markets
+permalink: /energy-markets/
 ---
 
-# Electricity markets
+# Energy markets
 
 My opinions are my own.
 
@@ -13,7 +13,7 @@ My opinions are my own.
 ## Posts
 
 <ul class="post-list">
-  {% assign posts = site.electricity_posts | sort: "date" | reverse %}
+  {% assign posts = site.energy_posts | sort: "date" | reverse %}
   {% for post in posts %}
     <li class="post-item">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
