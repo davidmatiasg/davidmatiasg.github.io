@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Research
+title: Research & Teaching
 permalink: /research/
 ---
 
-# Research
+# Research & Teaching
 
 Below is my writing organized by type and year. For questions on any publication, feel free to email me.
+
+*Note: the publications below predate my doctoral studies — they come primarily from my work at the Inter-American Development Bank and earlier graduate work.*
 
 ---
 
@@ -87,3 +89,11 @@ Below is my writing organized by type and year. For questions on any publication
 - **A Behavioral approach to industrial organization**  
   David Matias. (2019). In *COFECE Essay Award (3rd ed.)*, Federal Economic Competition Commission, pp. 77–83.  
   [PDF / publication](https://www.cofece.mx/wp-content/uploads/2019/11/RevistaPENSY-141119.pdf)
+
+---
+
+## Teaching
+
+### Rice University
+
+- **Teaching Assistant — ECON 611: Geopolitics of Energy** (Prof. Jim Krane), Summer 2026.

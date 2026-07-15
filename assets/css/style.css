@@ -78,7 +78,7 @@ body{
 
 /* Optional photo block (homepage) */
 .home-photo{
-  width: 220px;
+  width: 300px;
   justify-self: start;
 }
 
@@ -156,7 +156,7 @@ small, .muted{ color: var(--muted); }
 @media (min-width: 820px){
   .page.with-photo{
     display: grid;
-    grid-template-columns: 240px 1fr;
+    grid-template-columns: 320px 1fr;
     gap: 24px;
     align-items: start;
   }
