@@ -76,15 +76,33 @@ Below is my writing organized by type and year. For questions on any publication
   DOI: 10.18235/0013769 — [Publication page](http://dx.doi.org/10.18235/0013769)  
   _Contributed research support (not listed as an author)._
 
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  Latin America and the Caribbean face weather variations and natural disasters that increasingly disrupt transport, energy, water, and sanitation services and disproportionately harm the most vulnerable populations. This volume offers a comprehensive framework for action to invest better, not just more, in resilient infrastructure. The report diagnoses the risks and vulnerabilities that infrastructure systems face in the region, reviews the policy and technical toolkit available to embed resilience across planning, design, operation, and maintenance, and examines the funding and financing mechanisms needed to close the resilience investment gap.
+  </details>
+
 ### 2024
 
 - **Economics of Electricity Losses in Latin America and the Caribbean (Chapters 5–6)**  
   Ariel Yépez García, Raúl Jiménez Mori, and David Matias. (2024). *Report (book chapters).*  
   [Publication page](https://publications.iadb.org/en/economics-electricity-losses-latin-america-and-caribbean)
 
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  Despite significant progress and reforms in Latin America and the Caribbean, electricity markets continue to face substantial inefficiencies. One of the most concerning and persistent indicators is the high level of electricity losses, which generate social, environmental, and economic costs. These losses adversely impact the quality of electrical services, disproportionately affecting the most vulnerable segments of the population, and jeopardize the sustainability of the electric sector, which is crucial for bridging investment gaps in infrastructure and facilitating the energy transition. This book provides a comprehensive analysis of the magnitude and causes of these losses within the region, proposing policy options based on regional experiences.
+  </details>
+
 - **Navigating the Energy Transition in Latin America and the Caribbean: Price Volatility and Signaling in Short-Term Electricity Markets**  
   Lenin Balza, Ricardo Ríos-Zalapa, Carlos Mata, and David Matias. (2024). *Policy paper.*  
   DOI: 10.18235/0013200 — [Publication page](http://dx.doi.org/10.18235/0013200)
+
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  The observed increase in fossil fuel prices, exacerbated by extreme climate events such as prolonged droughts, has led to significant short-term electricity price volatility across several markets in Latin America and the Caribbean. Simultaneously, the rapid integration of variable renewable energy sources has introduced new operational challenges for electricity markets. This study examines the fundamental components of short-term electricity markets in the region, identifies international best practices, and assesses the primary drivers of spot price volatility. It provides regulatory recommendations aimed at enhancing the integration of variable renewables, strengthening market resilience, and optimizing operational efficiency.
+  </details>
 
 ### 2022
 
@@ -95,7 +113,13 @@ Below is my writing organized by type and year. For questions on any publication
 
 - **Performance of Electricity Distribution Companies in Latin America and the Caribbean: The Role of Governance and Management**  
   José Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Daltro, Michelle Carvalho Hallack, and David Matias. (2022). *Report.*  
-   DOI: 10.18235/0004536 — [Publication page](http://dx.doi.org/10.18235/0004536) 
+   DOI: 10.18235/0004536 — [Publication page](http://dx.doi.org/10.18235/0004536)
+
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  <em>(In Spanish.)</em> Este trabajo analiza de forma empírica el rol de la gobernanza y gestión de las empresas de distribución eléctrica de América Latina y el Caribe en la calidad del servicio prestado y su rentabilidad. Para medir calidad del servicio se utiliza un índice de satisfacción del cliente y dos que miden la duración y frecuencia de la interrupción del servicio; para rentabilidad, el margen EBITDA y la rentabilidad de los activos. Las variables de gobernanza y gestión explican en un porcentaje no menor la heterogeneidad observada entre las empresas. Los resultados muestran que instaurar instancias de control de la gobernanza corporativa, enfatizar la estrategia comercial y mejorar la capacidad técnica y operativa para disminuir pérdidas redundan en un mejor servicio y mejores rentabilidades.
+  </details>
 
 ---
 

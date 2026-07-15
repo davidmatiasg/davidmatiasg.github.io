@@ -45,6 +45,10 @@ Longer-form commentary is moving to a Substack — link coming soon.
 
 At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write short, policy-oriented pieces on energy issues in Latin America and the Caribbean. Below is a curated list of my posts (in Spanish).
 
+### Extreme weather events and the electricity sector
+
+- [Ahí viene El Niño: ¿qué nos enseñan las sequías sobre la resiliencia de los sistemas eléctricos?](https://www.iadb.org/es/blog/energia/ahi-viene-el-nino-que-nos-ensenan-las-sequias-sobre-la-resiliencia-de-los-sistemas-electricos)
+
 ### Electricity losses & sector sustainability
 - [¿Qué hacer para reducir y controlar las pérdidas eléctricas en América Latina y el Caribe?](https://www.iadb.org/es/blog/energia/que-hacer-para-reducir-y-controlar-las-perdidas-electricas-en-america-latina-y-el-caribe)
 - [Pérdidas eléctricas en América Latina y el Caribe: un problema crónico para la sostenibilidad del sector](https://www.iadb.org/es/blog/energia/perdidas-electricas-en-america-latina-y-el-caribe-un-problema-cronico-para-la-sostenibilidad-del)
