@@ -31,6 +31,12 @@ Below is my writing organized by type and year. For questions on any publication
   Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Daltro, Franco Carvajal, Michelle Carvalho Hallack, and David Matias. (2025). *Journal of Applied Economics, 28*(1).  
   DOI: 10.1080/15140326.2025.2568248 — [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
 
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  This study identifies and analyzes the evolution of efficiency in providing services and the financial performance of LAC electricity distribution companies between 2014 and 2020. Additionally, it examines firms' characteristics that might be related to efficiency, such as quality of service, corporate governance, firm size, and ownership. We use the nonparametric data envelopment analysis (DEA) approach to capture the efficiency scores. Moreover, we employ different robustness checks, such as the Malmquist index, to calculate the efficiency levels and total factor productivity (TFP) changes and break down the total change. The main results suggest that there is no significant improvement in the levels of efficiency in the period analyzed in the energy distribution firms in the LAC region. When analyzing the heterogeneity of a company's efficiency, the evidence shows a relationship between companies' efficiency and the quality perceived by users; higher efficiency is related to better-perceived quality.
+  </details>
+
 ---
 
 ## Working papers
@@ -41,11 +47,23 @@ Below is my writing organized by type and year. For questions on any publication
   José Belmar, Lenin Balza, Lisa Bagnoli, and David Matias. (2025). *Working paper.*  
   DOI: 10.18235/0013848 — [Publication page](http://dx.doi.org/10.18235/0013848)
 
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  Changing weather patterns pose a fundamental challenge to electricity systems reliant on water resources. Using two decades of plant-level generation and fuel input data matched to hydrological basins in Chile, we show that local droughts reduce hydro output by about 20% on average and trigger sharp increases in thermal generation among plants with spare capacity. This substitution cushions short-run losses in supply and guarantees reliability of the system but creates a double burden for affected regions, which face both water scarcity and increases in local pollution. At the aggregate level, emissions from high-capacity thermal plants rise by roughly 34% during system-wide droughts, corresponding to about 1.4–1.8% of annual national emissions and 5.5–6.5% of the power sector's total. We also document that prolonged droughts were followed by expansions in thermal capacity, consistent with long-run lock-in of high-carbon-intensity technologies.
+  </details>
+
 ### 2024
 
 - **Green or Growth? Understanding the Relationship between Economic Growth and CO₂ Emissions**  
   Lenin Balza, Ariel Yépez García, Laura Heras, and David Matias. (2024). *Working paper.*  
   DOI: 10.18235/0012943 — [Publication page](http://dx.doi.org/10.18235/0012943)
+
+  <details>
+  <summary><span class="muted">Abstract</span></summary>
+
+  The relationship between economic growth and environmental impact has largely been studied through the Environmental Kuznets Curve (EKC), which posits an inverted U-shape relationship between the two. We examine this link by analyzing GDP and CO₂ emissions per capita from 1970 to 2020 using a panel of 136 countries, estimating short- and long-run income elasticities of CO₂ emissions across regions. While our findings confirm the EKC at the global level, we do not find evidence of it for all regions: a monotonic positive relationship between income and emissions is observed for Latin America and the Caribbean. We also find that the income elasticity of production-based emissions is generally lower than that of consumption-based emissions — in LAC, 0.56 versus 0.95.
+  </details>
 
 ---
 
@@ -77,7 +95,7 @@ Below is my writing organized by type and year. For questions on any publication
 
 - **Performance of Electricity Distribution Companies in Latin America and the Caribbean: The Role of Governance and Management**  
   José Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Daltro, Michelle Carvalho Hallack, and David Matias. (2022). *Report.*  
-   DOI: 10.18235/0004536 — [Publication page]( http://dx.doi.org/10.18235/0004536) 
+   DOI: 10.18235/0004536 — [Publication page](http://dx.doi.org/10.18235/0004536) 
 
 ---
 
