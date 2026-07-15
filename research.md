@@ -10,13 +10,9 @@ Below is my writing organized by type and year. For questions on any publication
 
 ---
 
-## Working papers
+## Peer-reviewed publications
 
 ### 2025
-
-- **Powering Through Drought: The Impact of Water Scarcity on Electricity Generation**  
-  José Belmar, Lenin Balza, Lisa Bagnoli, and David Matias. (2025). *Working paper.*  
-  DOI: 10.18235/0013848 — [Publication page](http://dx.doi.org/10.18235/0013848)
 
 - **The role of renewables in smoothing the impact of oil and gas price shocks on inflation: The LAC experience**  
   Magdalena Cornejo, Michelle Carvalho Hallack, and David Matias. (2025). *Resources Policy, 105*, 105577.  
@@ -33,6 +29,15 @@ Below is my writing organized by type and year. For questions on any publication
   Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Daltro, Franco Carvajal, Michelle Carvalho Hallack, and David Matias. (2025). *Journal of Applied Economics, 28*(1).  
   DOI: 10.1080/15140326.2025.2568248 — [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
 
+---
+
+## Working papers
+
+### 2025
+
+- **Powering Through Drought: The Impact of Water Scarcity on Electricity Generation**  
+  José Belmar, Lenin Balza, Lisa Bagnoli, and David Matias. (2025). *Working paper.*  
+  DOI: 10.18235/0013848 — [Publication page](http://dx.doi.org/10.18235/0013848)
 
 ### 2024
 

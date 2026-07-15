@@ -18,7 +18,7 @@ Prior to my doctoral studies, I worked for three years at the [Inter-American De
 
 Here is a link to my **CV**:  
 
-<a href="/assets/cv2026.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a>
+<a href="/assets/cv2026.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF, updated 2026)</a>
 
 ---
 
@@ -33,4 +33,7 @@ Here is a link to my **CV**:
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/david-matiasg)   
+- [Google Scholar](https://scholar.google.com/citations?user=IzirlNUAAAAJ)
+- [Baker Institute profile](https://www.bakerinstitute.org/expert/david-matias-garcia)
+- [LinkedIn](https://www.linkedin.com/in/david-matiasg)
+

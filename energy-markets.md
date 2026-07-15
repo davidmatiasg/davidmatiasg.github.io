@@ -6,6 +6,14 @@ permalink: /energy-markets/
 
 # Energy markets
 
+<figure style="margin: 0 0 1.5rem 0;">
+  <img src="/assets/img/nga_keelmen_heaving_in_coals_by_moonlight_1942.9.86.jpg"
+       alt="Keelmen Heaving in Coals by Moonlight, J.M.W. Turner, 1835" style="width:100%; border-radius:4px;">
+  <figcaption class="muted" style="font-size:0.8rem; margin-top:0.4rem;">
+    J.M.W. Turner, <em>Keelmen Heaving in Coals by Moonlight</em>, 1835. National Gallery of Art, Washington (open access).
+  </figcaption>
+</figure>
+
 My opinions are my own.
 
 ---
@@ -25,6 +33,8 @@ My opinions are my own.
   {% endfor %}
 </ul>
 
-<p class="muted" style="margin-top:18px;">
-  To add a new post, create a file in <code>_energy_posts/</code>.
-</p>
+---
+
+## Blog
+
+Longer-form commentary is moving to a Substack — link coming soon.
