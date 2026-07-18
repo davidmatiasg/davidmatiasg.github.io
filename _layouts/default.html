@@ -25,8 +25,11 @@
 
         <nav class="nav">
           <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
-          <a class="nav-link" href="{{ '/research/' | relative_url }}">Research & Teaching</a>
+          <a class="nav-link" href="{{ '/' | relative_url }}#about">About</a>
+          <a class="nav-link" href="{{ '/' | relative_url }}#research">Research</a>
+          <a class="nav-link" href="{{ '/' | relative_url }}#teaching">Teaching</a>
           <a class="nav-link" href="{{ '/energy-markets/' | relative_url }}">Energy Markets</a>
+          <a class="nav-link" href="{{ '/' | relative_url }}#contact">Contact</a>
         </nav>
       </div>
     </header>
@@ -57,5 +60,19 @@
         </div>
       </footer>
     </main>
+    <script>
+      (function () {
+        if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          document.querySelectorAll('.reveal').forEach(el => el.classList.add('visible'));
+          return;
+        }
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) {
+            if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+          });
+        }, { threshold: 0.12 });
+        document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
+      })();
+    </script>
   </body>
 </html>
