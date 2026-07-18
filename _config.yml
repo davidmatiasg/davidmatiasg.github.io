@@ -1,4 +1,5 @@
 title: "David Matias"
+url: "https://davidmatiasg.github.io"
 description: "PhD Student in Economics at Rice University | Industrial Organization & Energy Markets"
 markdown: kramdown
 permalink: pretty
@@ -8,3 +9,7 @@ collections:
     output: true
     permalink: /energy-markets/:name/
 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
