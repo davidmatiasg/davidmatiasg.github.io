@@ -41,8 +41,8 @@ Selected work — all publications predate my doctoral studies, primarily from m
 - **The role of renewables in smoothing the impact of oil and gas price shocks on inflation** (*Resources Policy*, 2025)  
   Higher renewable shares reduce the pass-through of oil price shocks to inflation across 18 LAC countries. [Publication page](https://doi.org/10.1016/j.resourpol.2025.105577)
 
-- **Measuring the efficiency of energy distribution firms in the LAC region** (*Journal of Applied Economics*, 2025)  
-  DEA analysis of LAC electricity distributors, 2014–2020: efficiency links to perceived service quality. [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
+- **Green or Growth? Understanding the Relationship between Economic Growth and CO₂ Emissions** (Working paper, 2024)  
+  Income elasticities of CO₂ emissions across 136 countries: the Environmental Kuznets Curve holds globally, but not for Latin America and the Caribbean. [Publication page](http://dx.doi.org/10.18235/0012943)
 
 <p><a class="view-all" href="/research/">View all publications & abstracts →</a></p>
 
