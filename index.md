@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 show_photo: true
-photo_path: /assets/img/headshot.jpg
+photo_path: /assets/img/DM.jpg
 photo_alt: "David Matias"
 photo_caption: ""
 ---
