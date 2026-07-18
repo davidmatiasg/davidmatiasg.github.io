@@ -65,7 +65,7 @@ Selected work — all publications predate my doctoral studies, primarily from m
 <div class="em-teaser">
   <img src="/assets/img/nga_keelmen_heaving_in_coals_by_moonlight_1942.9.86.jpg" alt="Keelmen Heaving in Coals by Moonlight, J.M.W. Turner, 1835">
   <div>
-    <p>Notes on electricity market design, plus my policy blog writing (in Spanish) on energy in Latin America and the Caribbean.</p>
+    <p>Notes on electricity markets, plus my policy blog writing (in Spanish) on energy in Latin America and the Caribbean.</p>
     <p><a class="view-all" href="/energy-markets/">Explore Energy Markets →</a></p>
   </div>
 </div>

@@ -268,7 +268,7 @@ small, .muted{ color: var(--muted); }
   font-size: 20px;
   margin: 14px 0 0;
 }
-.hero-photo{ flex: 0 0 300px; }
+.hero-photo{ flex: 0 0 210px; }
 .hero-photo img{
   width: 100%;
   height: auto;
@@ -318,7 +318,7 @@ small, .muted{ color: var(--muted); }
 
 @media (max-width: 720px){
   .hero{ flex-direction: column-reverse; gap: 26px; min-height: auto; padding-top: 14px; }
-  .hero-photo{ flex-basis: auto; width: 68%; max-width: 300px; }
+  .hero-photo{ flex-basis: auto; width: 55%; max-width: 220px; }
 }
 
 .em-teaser{
