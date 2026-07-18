@@ -9,7 +9,7 @@ permalink: /
     <h1>David Matias</h1>
     <p class="tagline">PhD Student in Economics · Rice University</p>
     <p class="tagline">Graduate Student Fellow · Baker Institute Center for Energy Studies</p>
-    <p class="fields">Industrial Organization · Energy Markets · Antitrust</p>
+    <p class="fields">Energy Markets · Industrial Organization · Regulatory Economics</p>
     <a class="scroll-cue" href="#about">Scroll to explore <span class="arrow">↓</span></a>
   </div>
   <div class="hero-photo">
@@ -21,7 +21,7 @@ permalink: /
 
 ## About me
 
-I am a PhD Student in Economics at [Rice University](https://www.rice.edu/) and a Graduate Student Fellow at the [Baker Institute's Center for Energy Studies](https://www.bakerinstitute.org/expert/david-matias-garcia). My research focuses on Industrial Organization, Energy Markets, and Antitrust Issues and Policies.
+I am a PhD Student in Economics at [Rice University](https://www.rice.edu/) and a Graduate Student Fellow at the [Baker Institute's Center for Energy Studies](https://www.bakerinstitute.org/expert/david-matias-garcia). My research focuses on Energy Markets, Industrial Organization, and Regulatory Economics.
 
 Prior to my doctoral studies, I worked for three years at the [Inter-American Development Bank](https://www.iadb.org/en) as an energy economist. I also hold a Master's in Economics from [El Colegio de México (COLMEX)](https://www.colmex.mx/en) and a Bachelor's degree from the [Universidad Nacional Autónoma de México (UNAM)](https://www.unam.mx/).
 

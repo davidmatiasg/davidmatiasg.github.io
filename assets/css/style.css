@@ -268,7 +268,7 @@ small, .muted{ color: var(--muted); }
   font-size: 20px;
   margin: 14px 0 0;
 }
-.hero-photo{ flex: 0 0 280px; }
+.hero-photo{ flex: 0 0 305px; }
 .hero-photo img{
   width: 100%;
   height: auto;
